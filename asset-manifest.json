@@ -14,8 +14,8 @@
     "static/js/5.54d64a5c.chunk.js.map": "/wp-library/static/js/5.54d64a5c.chunk.js.map",
     "static/js/6.c5e22e24.chunk.js": "/wp-library/static/js/6.c5e22e24.chunk.js",
     "static/js/6.c5e22e24.chunk.js.map": "/wp-library/static/js/6.c5e22e24.chunk.js.map",
-    "main.js": "/wp-library/static/js/main.1c4a84bd.chunk.js",
-    "main.js.map": "/wp-library/static/js/main.1c4a84bd.chunk.js.map",
+    "main.js": "/wp-library/static/js/main.55f6e266.chunk.js",
+    "main.js.map": "/wp-library/static/js/main.55f6e266.chunk.js.map",
     "runtime-main.js": "/wp-library/static/js/runtime-main.21252dfe.js",
     "runtime-main.js.map": "/wp-library/static/js/runtime-main.21252dfe.js.map",
     "static/css/9.121b3ca3.chunk.css": "/wp-library/static/css/9.121b3ca3.chunk.css",
@@ -87,6 +87,6 @@
     "static/js/runtime-main.21252dfe.js",
     "static/css/9.121b3ca3.chunk.css",
     "static/js/9.90206296.chunk.js",
-    "static/js/main.1c4a84bd.chunk.js"
+    "static/js/main.55f6e266.chunk.js"
   ]
 }
